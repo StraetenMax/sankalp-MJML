@@ -48,5 +48,33 @@
         <mj-text mj-class="pt-0 fs-14 fw-light">Al - made in india, for Indians and the world.</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">the future</mj-text>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">of motorcycling</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">our energy</mj-text>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">vision for india</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://mcusercontent.com/72a10dc43222ad5ff620f1c72/images/65e039d0-349f-066c-1126-e79c1700572f.png" width="20px" alt="" my-class="py-0"></mj-image>
+      </mj-column>
+      <mj-column>
+        <mj-image src="https://mcusercontent.com/72a10dc43222ad5ff620f1c72/images/65e039d0-349f-066c-1126-e79c1700572f.png" width="20px" alt="" my-class="py-0">   </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">A giant leap</mj-text>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">In commerce</mj-text>
+      </mj-column>
+      <mj-column>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">the dawn of</mj-text>
+        <mj-text mj-class="py-0 fs-15" text-transform="uppercase">ai revolution</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
