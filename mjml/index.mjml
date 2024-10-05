@@ -1,0 +1,37 @@
+
+<mjml>
+  <mj-head>
+    <mj-font name="Nunito Sans" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000"></mj-font>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+      
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Nunito, sans-serif" letter-spacing="1px" line-height="1.5"></mj-all>
+      <mj-text color="#ffffff" align="center"></mj-text>
+      <mj-class name="py-0" padding-top="0" padding-bottom="0"></mj-class>
+      <mj-class name="pt-0" padding-top="0"></mj-class>
+      <mj-class name="pb-0" padding-bottom="0"></mj-class>
+      <mj-class name="fw-light" font-weight="300"></mj-class>
+      <mj-class name="fs-14" font-size="14px"></mj-class>
+      <mj-class name="fs-15" font-size="15px"></mj-class>
+      <mj-class name="section-width" width="180px"></mj-class>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#000000" width="640px">      
+    <mj-section background-url="https://mcusercontent.com/72a10dc43222ad5ff620f1c72/images/2f5e5d84-f12f-025e-13ff-99e25e3aa1cb.jpg" background-size="600px" background-repeat="no-repeat">
+      <mj-column>
+        <mj-spacer height="120px"></mj-spacer>
+        <mj-text font-size="40px" font-weight="800" letter-spacing="8px" line-height="0,4%" text-transform="uppercase">Sankalp</mj-text>
+        <mj-text font-size="11px" font-weight="600" letter-spacing="3px" text-transform="uppercase">building the india of tomorrow</mj-text>
+        <mj-spacer height="8px"></mj-spacer>
+        <mj-text letter-spacing="2px" text-transform="uppercase">15th august 2024 | ola futurefactory</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
