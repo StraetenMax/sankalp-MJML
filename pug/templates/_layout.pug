@@ -1,0 +1,35 @@
+mjml
+    //- Head
+    mj-head
+        mj-font(name="Nunito Sans" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000")
+        mj-raw.
+            <meta name="color-scheme" content="light"/>
+            <meta name="supported-color-schemes" content="light"/>
+            <meta name="format-detection" content="telephone=no"/>
+            <meta name="format-detection" content="date=no"/>
+            <meta name="format-detection" content="address=no"/>
+            <meta name="format-detection" content="email=no"/>
+
+        mj-attributes
+            mj-all(font-family='Nunito, sans-serif' letter-spacing="1px" line-height='1.5')
+            mj-text(color="#ffffff" align="center")
+            mj-class(name="py-0" padding-top="0" padding-bottom="0")
+            mj-class(name="pt-0" padding-top="0")
+            mj-class(name="pb-0" padding-bottom="0")
+            mj-class(name="fw-light" font-weight="300")
+            mj-class(name="fs-14" font-size="14px")
+            mj-class(name="fs-15" font-size="15px")
+            mj-class(name="section-width" width="180px")
+    //- Body
+    mj-body(background-color="#000000" width="640px")       
+        //- content
+        block content
+        //- map
+            block map
+            include ../includes/_map
+        //- recommended
+            block recommended
+            include ../includes/_recommended
+        //- footer
+            block footer
+            include ../includes/_footer
